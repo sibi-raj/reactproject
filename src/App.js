@@ -1,10 +1,11 @@
 import React from "react";
-import BasicForm from "./day2/BasicForm";
+
+import ToggleState from "./day 3/ToggleState";
 
 function App() {
   return (
     <div>
-      <BasicForm></BasicForm>
+      <ToggleState></ToggleState>
     </div>
   )
 }
