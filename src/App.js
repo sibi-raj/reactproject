@@ -1,7 +1,7 @@
-import Inline from "./day2/Inline";
+import Counter1 from "./day 3/Counter1";
 
 export default function app(){
   return(
-    <Inline></Inline>
+    <Counter1></Counter1>
   );
 }
