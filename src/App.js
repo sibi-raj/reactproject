@@ -1,9 +1,10 @@
+import React from "react";
+import BasicForm from "./day2/BasicForm";
 
-import Hello from "./day2/Hello";
 function App() {
   return (
     <div>
-      <Hello></Hello>
+      <BasicForm></BasicForm>
     </div>
   )
 }
