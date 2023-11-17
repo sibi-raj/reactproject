@@ -1,11 +1,12 @@
 import React from "react";
 
-import ToggleState from "./day 3/ToggleState";
+
+import Message from "./day 3/Message";
 
 function App() {
   return (
     <div>
-      <ToggleState></ToggleState>
+      <Message></Message>
     </div>
   )
 }
