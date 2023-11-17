@@ -1,15 +1,11 @@
-import "./App.css";
-import Navbar from "./components/Navbar";
-import Main from "./components/Main";
-import Footer from "./components/Footer";
+
+import Hello from "./day2/Hello";
 function App() {
   return (
     <div>
-      <Navbar></Navbar>
-      <Main></Main>
-      <Footer></Footer>
+      <Hello></Hello>
     </div>
-  );
+  )
 }
 
 export default App;
